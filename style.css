@@ -1,0 +1,830 @@
+                                                                                                                                                        body {
+                                                                                                                                                            padding: 0px;
+                                                                                                                                                            margin: 0px;
+                                                                                                                                                            font-family: 'Roboto', sans-serif;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #top article {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            background: blue;
+                                                                                                                                                            height: 65px;
+                                                                                                                                                            width: 1349px
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #top article .one ul a {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            text-decoration: none;
+                                                                                                                                                            font-weight: bold;
+                                                                                                                                                            font-size: 30px;
+                                                                                                                                                            color: #fff;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #top article .two ul a {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            text-decoration: none;
+                                                                                                                                                            font-weight: bold;
+                                                                                                                                                            font-size: 30px;
+                                                                                                                                                            color: #fff;
+                                                                                                                                                            margin-left: 545px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #top article .two ul a:hover {
+                                                                                                                                                            color: #9d9dad;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #top article .three ul a {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            text-decoration: none;
+                                                                                                                                                            font-weight: bold;
+                                                                                                                                                            font-size: 30px;
+                                                                                                                                                            color: #fff;
+                                                                                                                                                            margin-left: 685px;
+                                                                                                                                                            margin-top: -0px
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #top article .three ul a:hover {
+                                                                                                                                                            color: #9d9dad;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #top article .four ul a {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            text-decoration: none;
+                                                                                                                                                            font-weight: bold;
+                                                                                                                                                            font-size: 30px;
+                                                                                                                                                            color: #fff;
+                                                                                                                                                            margin-left: 864px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #top article .four ul a:hover {
+                                                                                                                                                            color: #9d9dad;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #top article .five ul a {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            text-decoration: none;
+                                                                                                                                                            font-weight: bold;
+                                                                                                                                                            font-size: 30px;
+                                                                                                                                                            color: #fff;
+                                                                                                                                                            margin-left: 1009px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #top article .five ul a:hover {
+                                                                                                                                                            color: #9d9dad;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #top article .six ul a {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            text-decoration: none;
+                                                                                                                                                            font-weight: bold;
+                                                                                                                                                            font-size: 30px;
+                                                                                                                                                            color: #fff;
+                                                                                                                                                            margin-left: 1135px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #top article .six ul a:hover {
+                                                                                                                                                            color: #9d9dad;
+                                                                                                                                                        }
+                                                                                                                                                        /*top section ends here*/
+                                                                                                                                                        /*search section starts here*/
+                                                                                                                                                        
+                                                                                                                                                        #search article .one img {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 65px;
+                                                                                                                                                            height: 660px;
+                                                                                                                                                            width: 1349px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #search article .two h2 {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            color: #fff;
+                                                                                                                                                            margin-top: 160px;
+                                                                                                                                                            font-size: 30px;
+                                                                                                                                                            font-weight: bold;
+                                                                                                                                                            margin-left: 808px;
+                                                                                                                                                            background: #fd7e14;
+                                                                                                                                                            height: 46px;
+                                                                                                                                                            width: 439px;
+                                                                                                                                                            padding-left: 21px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #search article .background {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            background: rgba(76, 175, 80, 0.3) !important;
+                                                                                                                                                            animation-delay: 2000ms;
+                                                                                                                                                            margin-top: 206px;
+                                                                                                                                                            margin-left: 810px;
+                                                                                                                                                            width: 458px;
+                                                                                                                                                            height: 460px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #search article .three {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            color: #fff;
+                                                                                                                                                            margin-top: 231px;
+                                                                                                                                                            margin-left: 822px;
+                                                                                                                                                            font-size: 15px;
+                                                                                                                                                            font-weight: bold;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #search article .form-control {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 249px;
+                                                                                                                                                            margin-left: 822px;
+                                                                                                                                                            width: 393px;
+                                                                                                                                                            height: 41px;
+                                                                                                                                                            padding-left: 25px;
+                                                                                                                                                            border: none;
+                                                                                                                                                            border-radius: 5px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #search article .four {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            color: #fff;
+                                                                                                                                                            margin-top: 308px;
+                                                                                                                                                            margin-left: 822px;
+                                                                                                                                                            font-size: 15px;
+                                                                                                                                                            font-weight: bold;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #search article .city {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 333px;
+                                                                                                                                                            margin-left: 822px;
+                                                                                                                                                            width: 393px;
+                                                                                                                                                            height: 41px;
+                                                                                                                                                            padding-left: 25px;
+                                                                                                                                                            border: none;
+                                                                                                                                                            border-radius: 5px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #search article .five {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 386px;
+                                                                                                                                                            margin-left: 822px;
+                                                                                                                                                            font-size: 15px;
+                                                                                                                                                            font-weight: bold;
+                                                                                                                                                            color: #fff;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #search article .pickupdate {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 410px;
+                                                                                                                                                            margin-left: 822px;
+                                                                                                                                                            height: 25px;
+                                                                                                                                                            width: 140px;
+                                                                                                                                                            padding-left: 7px;
+                                                                                                                                                            border: none;
+                                                                                                                                                            border-radius: 5px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #search article .six {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 386px;
+                                                                                                                                                            margin-left: 1058px;
+                                                                                                                                                            font-size: 15px;
+                                                                                                                                                            font-weight: bold;
+                                                                                                                                                            color: #fff;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #search article .tym {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 410px;
+                                                                                                                                                            margin-left: 1051px;
+                                                                                                                                                            height: 25px;
+                                                                                                                                                            width: 140px;
+                                                                                                                                                            padding-left: 7px;
+                                                                                                                                                            border: none;
+                                                                                                                                                            border-radius: 5px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #search article .seven {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 461px;
+                                                                                                                                                            margin-left: 824px;
+                                                                                                                                                            font-size: 15px;
+                                                                                                                                                            font-weight: bold;
+                                                                                                                                                            color: #fff;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #search article .dropdate {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 492px;
+                                                                                                                                                            margin-left: 823px;
+                                                                                                                                                            height: 25px;
+                                                                                                                                                            width: 140px;
+                                                                                                                                                            padding-left: 7px;
+                                                                                                                                                            border: none;
+                                                                                                                                                            border-radius: 5px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #search article .eight {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 461px;
+                                                                                                                                                            margin-left: 1070px;
+                                                                                                                                                            font-size: 15px;
+                                                                                                                                                            font-weight: bold;
+                                                                                                                                                            color: #fff;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #search article .droptym {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 492px;
+                                                                                                                                                            margin-left: 1063px;
+                                                                                                                                                            height: 25px;
+                                                                                                                                                            width: 140px;
+                                                                                                                                                            padding-left: 7px;
+                                                                                                                                                            border: none;
+                                                                                                                                                            border-radius: 5px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #search article .nine button {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            background: #91bf02;
+                                                                                                                                                            border-color: #34ce57 #34ce57 #28a745;
+                                                                                                                                                            color: #FFF;
+                                                                                                                                                            margin-top: 541px;
+                                                                                                                                                            margin-left: 944px;
+                                                                                                                                                            height: 50px;
+                                                                                                                                                            text-decoration: none;
+                                                                                                                                                            font-size: 18px;
+                                                                                                                                                            font-weight: 700;
+                                                                                                                                                            cursor: pointer;
+                                                                                                                                                            width: 200px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #search article .nine button a {
+                                                                                                                                                            text-decoration: none;
+                                                                                                                                                            color: #fff;
+                                                                                                                                                            cursor: pointer;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #search article .ten h2 {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            color: #fff;
+                                                                                                                                                            margin-top: 159px;
+                                                                                                                                                            font-size: 30px;
+                                                                                                                                                            line-height: 60px;
+                                                                                                                                                            margin-left: 90px;
+                                                                                                                                                            font-weight: 900;
+                                                                                                                                                        }
+                                                                                                                                                        /*search section css ends here*/
+                                                                                                                                                        /*service car center css starts here*/
+                                                                                                                                                        
+                                                                                                                                                        #service article .one {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 793px;
+                                                                                                                                                            margin-left: 284px;
+                                                                                                                                                            font-size: 2.30em !important;
+                                                                                                                                                            font-weight: 700 !important;
+                                                                                                                                                            font-family: 'Montserrat', sans-serif;
+                                                                                                                                                            color: #91bf02;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #service article .two {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 793px;
+                                                                                                                                                            margin-left: 459px;
+                                                                                                                                                            font-size: 2.30em !important;
+                                                                                                                                                            font-weight: 700 !important;
+                                                                                                                                                            font-family: 'Montserrat', sans-serif;
+                                                                                                                                                            color: #46064655;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #service article h2 {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 793px;
+                                                                                                                                                            margin-left: 745px;
+                                                                                                                                                            font-size: 2.30em !important;
+                                                                                                                                                            font-weight: bold !important;
+                                                                                                                                                            font-family: 'Montserrat', sans-serif;
+                                                                                                                                                            color: black;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #service article .three img {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            height: 50px;
+                                                                                                                                                            margin-top: 846px;
+                                                                                                                                                            margin-left: 561px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #service article .four img {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            height: 80px;
+                                                                                                                                                            margin-top: 895px;
+                                                                                                                                                            margin-left: 232px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #service article .five {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 975px;
+                                                                                                                                                            font-size: 20px;
+                                                                                                                                                            margin-left: 130px;
+                                                                                                                                                            font-weight: 900 !important;
+                                                                                                                                                            font-family: 'Montserrat', sans-serif;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #service article .six img {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            height: 80px;
+                                                                                                                                                            margin-top: 895px;
+                                                                                                                                                            margin-left: 643px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #service article .seven {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 975px;
+                                                                                                                                                            font-size: 20px;
+                                                                                                                                                            margin-left: 601px;
+                                                                                                                                                            font-weight: 900 !important;
+                                                                                                                                                            font-family: 'Montserrat', sans-serif;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #service article .eight img {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            height: 80px;
+                                                                                                                                                            margin-top: 895px;
+                                                                                                                                                            margin-left: 1017px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #service article .nine {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 975px;
+                                                                                                                                                            font-size: 20px;
+                                                                                                                                                            margin-left: 943px;
+                                                                                                                                                            font-weight: 900 !important;
+                                                                                                                                                            font-family: 'Montserrat', sans-serif;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #service article .ten img {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            height: 80px;
+                                                                                                                                                            margin-top: 1041px;
+                                                                                                                                                            margin-left: 232px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #service article .eleven {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 1127px;
+                                                                                                                                                            font-size: 20px;
+                                                                                                                                                            margin-left: 179px;
+                                                                                                                                                            font-weight: 900 !important;
+                                                                                                                                                            font-family: 'Montserrat', sans-serif;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #service article .tweleve img {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            height: 80px;
+                                                                                                                                                            margin-top: 1041px;
+                                                                                                                                                            margin-left: 649px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #service article .thirten {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 1127px;
+                                                                                                                                                            font-size: 20px;
+                                                                                                                                                            margin-left: 592px;
+                                                                                                                                                            font-weight: 900 !important;
+                                                                                                                                                            font-family: 'Montserrat', sans-serif;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #service article .fourten img {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            height: 80px;
+                                                                                                                                                            margin-top: 1041px;
+                                                                                                                                                            margin-left: 1027px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #service article .fiveten {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 1127px;
+                                                                                                                                                            font-size: 20px;
+                                                                                                                                                            margin-left: 984px;
+                                                                                                                                                            font-weight: 900 !important;
+                                                                                                                                                            font-family: 'Montserrat', sans-serif;
+                                                                                                                                                        }
+                                                                                                                                                        /*service car center css ends here*/
+                                                                                                                                                        /*our best offer section css starts here*/
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .one h2 {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 1200px;
+                                                                                                                                                            margin-left: 540px;
+                                                                                                                                                            font-weight: 700 !important;
+                                                                                                                                                            font-size: 2.30em !important;
+                                                                                                                                                            font-family: 'Oswald', sans-serif;
+                                                                                                                                                            color: #212529;
+                                                                                                                                                            letter-spacing: -.05em;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .one b {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 1200px;
+                                                                                                                                                            margin-left: 707px;
+                                                                                                                                                            font-weight: 700 !important;
+                                                                                                                                                            font-size: 2.30em !important;
+                                                                                                                                                            font-family: 'Oswald', sans-serif;
+                                                                                                                                                            letter-spacing: -.05em;
+                                                                                                                                                            color: #ffc107;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .two img {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            height: 50px;
+                                                                                                                                                            margin-top: 1248px;
+                                                                                                                                                            margin-left: 561px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .three img {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 1303px;
+                                                                                                                                                            height: 105px;
+                                                                                                                                                            margin-left: 120px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .onsale {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 1345px;
+                                                                                                                                                            margin-left: 145px;
+                                                                                                                                                            color: #fff;
+                                                                                                                                                            cursor: pointer;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .four img {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 1303px;
+                                                                                                                                                            height: 105px;
+                                                                                                                                                            margin-left: 468px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .sale {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 1345px;
+                                                                                                                                                            margin-left: 493px;
+                                                                                                                                                            color: #fff;
+                                                                                                                                                            cursor: pointer;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .five img {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 1303px;
+                                                                                                                                                            height: 105px;
+                                                                                                                                                            margin-left: 869px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .sales {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 1345px;
+                                                                                                                                                            margin-left: 892px;
+                                                                                                                                                            color: #fff;
+                                                                                                                                                            cursor: pointer;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .six a img {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            height: 130px;
+                                                                                                                                                            margin-top: 1385px;
+                                                                                                                                                            margin-left: 196px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .six a img:hover {
+                                                                                                                                                            color: #eee;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .seven a img {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            height: 168px;
+                                                                                                                                                            margin-top: 1358px;
+                                                                                                                                                            margin-left: 586px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .eight a img {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            height: 168px;
+                                                                                                                                                            margin-top: 1358px;
+                                                                                                                                                            margin-left: 960px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .nine a {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            height: 70px;
+                                                                                                                                                            background: #eee;
+                                                                                                                                                            margin-left: 150px;
+                                                                                                                                                            width: 308px;
+                                                                                                                                                            margin-top: 1522px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .nine a:hover {
+                                                                                                                                                            background-color: #fff;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .nine a strong {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-left: 35px;
+                                                                                                                                                            margin-top: 40px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .nine b {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            color: #91bf02;
+                                                                                                                                                            margin-left: 42px;
+                                                                                                                                                            font-weight: bold;
+                                                                                                                                                            font-size: 18px;
+                                                                                                                                                            font-weight: bold;
+                                                                                                                                                            font-size: 18px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .ten a {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            height: 70px;
+                                                                                                                                                            background: #eee;
+                                                                                                                                                            margin-left: 543px;
+                                                                                                                                                            width: 308px;
+                                                                                                                                                            margin-top: 1522px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .ten a:hover {
+                                                                                                                                                            background-color: #fff;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .ten a strong {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-left: 35px;
+                                                                                                                                                            margin-top: 40px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .ten b {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            color: #91bf02;
+                                                                                                                                                            margin-left: 66px;
+                                                                                                                                                            font-weight: bold;
+                                                                                                                                                            font-size: 18px;
+                                                                                                                                                            font-weight: bold;
+                                                                                                                                                            font-size: 18px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .eleven a {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            height: 70px;
+                                                                                                                                                            background: #eee;
+                                                                                                                                                            margin-left: 981px;
+                                                                                                                                                            width: 308px;
+                                                                                                                                                            margin-top: 1522px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .eleven a:hover {
+                                                                                                                                                            background-color: #fff;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .eleven a strong {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-left: 64px;
+                                                                                                                                                            margin-top: 40px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #bestoffer article .eleven b {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            color: #91bf02;
+                                                                                                                                                            margin-left: 66px;
+                                                                                                                                                            font-weight: bold;
+                                                                                                                                                            font-size: 18px;
+                                                                                                                                                            font-weight: bold;
+                                                                                                                                                            font-size: 18px;
+                                                                                                                                                        }
+                                                                                                                                                        /*our best offer section css ends here*/
+                                                                                                                                                        /*question section css starts here*/
+                                                                                                                                                        
+                                                                                                                                                        #question article .images img {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 1700px;
+                                                                                                                                                            margin-left: 94px;
+                                                                                                                                                            width: 342px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #question article .heading li ul .one {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 1678px;
+                                                                                                                                                            margin-left: 669px;
+                                                                                                                                                            font-size: 30px;
+                                                                                                                                                            color: black;
+                                                                                                                                                            font-weight: bold;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #question article .heading li ul .two {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 1678px;
+                                                                                                                                                            margin-left: 843px;
+                                                                                                                                                            font-size: 30px;
+                                                                                                                                                            color: #91bf02;
+                                                                                                                                                            font-weight: bold;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #question article .question b {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 1729px;
+                                                                                                                                                            margin-left: 714px;
+                                                                                                                                                            font-size: 20px;
+                                                                                                                                                            font-weight: 500;
+                                                                                                                                                            color: #91bf02;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #question article .answer {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 1754px;
+                                                                                                                                                            margin-left: 714px;
+                                                                                                                                                            font-size: 15px;
+                                                                                                                                                            font-weight: 500;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #question article .question2 b {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 1805px;
+                                                                                                                                                            margin-left: 714px;
+                                                                                                                                                            color: #91bf02;
+                                                                                                                                                            font-size: 20px;
+                                                                                                                                                            font-weight: 500;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #question article .answer2 {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 1836px;
+                                                                                                                                                            margin-left: 714px;
+                                                                                                                                                            font-size: 15px;
+                                                                                                                                                            font-weight: 500;
+                                                                                                                                                        }
+                                                                                                                                                        /*question section css ends here*/
+                                                                                                                                                        /*image footrersection css starts here*/
+                                                                                                                                                        
+                                                                                                                                                        #footerimage article h2 {
+                                                                                                                                                            margin-top: 1989px;
+                                                                                                                                                            margin-left: 536px;
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            font-size: 40px;
+                                                                                                                                                            font-weight: 500;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #footerimage article h3 {
+                                                                                                                                                            margin-top: 1990px;
+                                                                                                                                                            margin-left: 749px;
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            font-size: 40px;
+                                                                                                                                                            font-weight: 500;
+                                                                                                                                                            color: #91bf02;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #footerimage article .one img {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            height: 256px;
+                                                                                                                                                            width: 387px;
+                                                                                                                                                            margin-top: 2060px;
+                                                                                                                                                            margin-left: 56px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #footerimage article .two img {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            height: 256px;
+                                                                                                                                                            width: 387px;
+                                                                                                                                                            margin-top: 2060px;
+                                                                                                                                                            margin-left: 509px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #footerimage article .three img {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            height: 256px;
+                                                                                                                                                            width: 387px;
+                                                                                                                                                            margin-top: 2060px;
+                                                                                                                                                            margin-left: 932px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #footerimage article .three img:hover {
+                                                                                                                                                            transform: scale(1.1);
+                                                                                                                                                            transition: ease all 0.7s;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #footerimage article .two img:hover {
+                                                                                                                                                            transform: scale(1.1);
+                                                                                                                                                            transition: ease all 0.7s;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #footerimage article .one img:hover {
+                                                                                                                                                            transform: scale(1.1);
+                                                                                                                                                            transition: ease all 0.7s;
+                                                                                                                                                        }
+                                                                                                                                                        /*image footrersection css ends here*/
+                                                                                                                                                        /*end section starts here*/
+                                                                                                                                                        
+                                                                                                                                                        #end article {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 2345px;
+                                                                                                                                                            background: black;
+                                                                                                                                                            height: 300px;
+                                                                                                                                                            width: 1349px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #end article .one h2 {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            color: #91bf02;
+                                                                                                                                                            margin-top: 29px;
+                                                                                                                                                            margin-left: 25px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #end article .one p {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            color: #fff;
+                                                                                                                                                            margin-top: 74px;
+                                                                                                                                                            margin-left: 25px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #end article .input {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 173px;
+                                                                                                                                                            margin-left: 25px;
+                                                                                                                                                            border: none;
+                                                                                                                                                            height: 30px;
+                                                                                                                                                            width: 298px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        input {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            height: 30px;
+                                                                                                                                                            border: none;
+                                                                                                                                                            margin-top: 25px;
+                                                                                                                                                            width: 254px;
+                                                                                                                                                            border: none;
+                                                                                                                                                            border-radius: 5px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        button {
+                                                                                                                                                            color: #fff;
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 0px;
+                                                                                                                                                            margin-left: 257px;
+                                                                                                                                                            height: 30px;
+                                                                                                                                                            width: 171px;
+                                                                                                                                                            margin-top: 25px;
+                                                                                                                                                            border: none;
+                                                                                                                                                            border-radius: 5px;
+                                                                                                                                                            background: #91bf02;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        a {
+                                                                                                                                                            color: #fff;
+                                                                                                                                                            text-decoration: none;
+                                                                                                                                                            font-size: 17px;
+                                                                                                                                                            font-weight: 500;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #end article .two h2 {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-top: 29px;
+                                                                                                                                                            margin-left: 609px;
+                                                                                                                                                            color: #91bf02;
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            position: absolute;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #end article .two a {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-left: 641px;
+                                                                                                                                                            margin-top: 66px;
+                                                                                                                                                            font-size: 20px;
+                                                                                                                                                            font-weight: 500;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #end article .three a {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            margin-left: 641px;
+                                                                                                                                                            margin-top: 99px;
+                                                                                                                                                            font-size: 20px;
+                                                                                                                                                            font-weight: 500;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #end article .three a:hover {
+                                                                                                                                                            color: #ccc;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #end article .two a:hover {
+                                                                                                                                                            color: #ccc;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #end article .four h2 {
+                                                                                                                                                            margin-top: 29px;
+                                                                                                                                                            margin-left: 808px;
+                                                                                                                                                            color: #91bf02;
+                                                                                                                                                            position: absolute;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #end article .seven img {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            height: 170px;
+                                                                                                                                                            width: 150px;
+                                                                                                                                                            margin-left: 1175px;
+                                                                                                                                                            margin-top: 136px;
+                                                                                                                                                        }
+                                                                                                                                                        
+                                                                                                                                                        #end article .eight img {
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            height: 170px;
+                                                                                                                                                            width: 150px;
+                                                                                                                                                            margin-left: 993px;
+                                                                                                                                                            margin-top: 136px;
+                                                                                                                                                        }
